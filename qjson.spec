@@ -2,7 +2,7 @@ Summary:	Qt implementation of JSON
 Summary(pl.UTF-8):	Implementacja Qt formatu JSON
 Name:		qjson
 Version:	0.8.1
-Release:	2
+Release:	3
 License:	LGPL v2.1
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/qjson/%{name}-%{version}.tar.bz2
